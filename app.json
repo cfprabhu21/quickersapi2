@@ -1,0 +1,14 @@
+{
+  "name": "quickersapi",
+  "description": "Go api",
+  "keywords": [
+    "quickersapi",
+    "go",
+    "sample",
+    "example"
+  ],
+  "image": "heroku/go:1.6",
+  "mount_dir": "src/github.com/cfprabhu21/quickersapi",
+  "website": "http://github.com/cfprabhu21/quickersapi",
+  "repository": "http://github.com/cfprabhu21/quickersapi"
+}
